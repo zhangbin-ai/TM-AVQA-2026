@@ -170,7 +170,7 @@ python Stage-I/data/missing_certain.py
 
 ## Checkpoints
 
-This release contains two model weight files:
+This release contains two model weight files (Please refer to https://huggingface.co/lzblanlan/save_models/tree/main):
 
 | File | Intended usage |
 | --- | --- |
