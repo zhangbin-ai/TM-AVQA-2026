@@ -1,6 +1,6 @@
 # TM-AVQA
 
-This repository contains the released two-stage code and checkpoints for **Robust Audio-Visual Question Answering with Missing Modality in Training and Testing**.
+This repository contains the released two-stage code and checkpoints for [Robust Audio-Visual Question Answering with Missing Modality in Training and Testing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11654509).
 
 
 
@@ -312,6 +312,19 @@ python Stage-II/main_avst.py \
   --path_phase01 "${ROOT}/model_stage01_model.pt" \
   --mode test
 ```
+
+## BibTeX
+If you find this work useful, please consider citing:
+
+```bibtex
+@inproceedings{Zhou2026train,
+  title={Robust Audio-Visual Question Answering with Missing Modality in Training and Testing},
+  author={Jinxing Zhou, Zhangbin Li, Di Hu, Yanghao Zhou, Rao Muhammad Anwer, Hisham Cholakkal, and Dan Guo},
+  booktitle={IEEE},
+  year={2026}
+}
+```
+
 
 ## Acknowledgements
 
