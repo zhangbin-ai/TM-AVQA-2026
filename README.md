@@ -320,7 +320,6 @@ If you find this work useful, please consider citing:
 @article{Zhou2026train,
   title={Robust Audio-Visual Question Answering with Missing Modality in Training and Testing},
   author={Jinxing Zhou, Zhangbin Li, Di Hu, Yanghao Zhou, Rao Muhammad Anwer, Hisham Cholakkal, and Dan Guo},
-  booktitle={IEEE},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   pages={1-18},
   year={2026}
